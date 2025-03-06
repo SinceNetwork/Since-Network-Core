@@ -38,8 +38,8 @@ Since Network is a next-generation decentralized ecosystem integrating **DeFi, A
 ## 🤝 Join Us & Contribute
 We welcome **open-source developers, blockchain experts, and crypto enthusiasts** to contribute to Since Network. Here's how you can help:
 
-📜 **Contribution Guide:** [Read Here](https://sincenetwork.pro/)  
-📜 **Code of Conduct:** [View Here](https://sincenetwork.pro/soon)  
+📜 **Contribution Guide:** [Read Here](https://github.com/SinceNetwork/contribution-guide)  
+📜 **Code of Conduct:** [View Here](https://github.com/SinceNetwork/Code-of-Conduct)  
 
 🔹 **Fork this repo & submit pull requests**  
 🔹 **Report bugs & suggest features**  
