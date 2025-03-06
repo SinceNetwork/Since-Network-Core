@@ -1,6 +1,6 @@
 # 🚀 Since Network - Leading the Future of Decentralized Finance
 
-![Since Network](https://sincenetwork.pro)
+![Since Network](https://sincenetwork.pro/lovable-uploads/99bb003c-d5dc-4469-be33-582e567b51b0.png)
 
 ## 🌍 Welcome to Since Network!
 Since Network is a next-generation decentralized ecosystem integrating **DeFi, AI, Metaverse, SocialFi, and NFT innovations**. We are committed to building a scalable, secure, and efficient blockchain network for the future of finance. 
